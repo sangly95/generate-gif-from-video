@@ -1,0 +1,18 @@
+{
+  "name": "video-to-gif",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "path": "^0.12.7",
+    "shell-escape": "^0.2.0",
+    "uid2": "0.0.3"
+  }
+}
